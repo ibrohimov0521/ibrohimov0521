@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Salom, men Ibrohimov!
 
-<!--
-**ibrohimov0521/ibrohimov0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Men dasturchiman va GitHub’da yangi loyihalar ustida ishlashni yaxshi ko‘raman. Ushbu maxsus repozitoriyada o‘zim haqimda va ijtimoiy tarmoqlarimga havolalarni topishingiz mumkin.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Men haqimda qisqacha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Dasturlash, open source va yangi texnologiyalarga qiziqaman.
+- 🌱 Hozirda yangi loyihalar ustida bilimlarimni oshiryapman.
+- 🤝 Hamkorlik uchun ochiqman.
+
+## 🌐 Ijtimoiy tarmoqlarim
+
+- [Telegram](https://t.me/Javohir_Ibrohimov)
+- [LinkedIn](https://www.linkedin.com/in/USERNAME)
+- [Twitter](https://twitter.com/USERNAME)
+- [Instagram](https://instagram.com/Ibrohimov0521)
+- [GitHub](https://github.com/ibrohimov0521)
+
+> Ijtimoiy tarmoqlardagi "USERNAME"ni o‘zingizning haqiqiy profilingizga moslab almashtiring.
+
+---
+
+⌨️ **Kod va loyihalarimni ko‘rib chiqing, fikr-mulohaza va takliflaringizni kutaman!**
