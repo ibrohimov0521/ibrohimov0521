@@ -1,4 +1,4 @@
-# 👋 Salom, men Ibrohimov!
+# 👋 Salom, men Ibrohimov Javohir!
 
 Men dasturchiman va GitHub’da yangi loyihalar ustida ishlashni yaxshi ko‘raman. Ushbu maxsus repozitoriyada o‘zim haqimda va ijtimoiy tarmoqlarimga havolalarni topishingiz mumkin.
 
@@ -15,9 +15,3 @@ Men dasturchiman va GitHub’da yangi loyihalar ustida ishlashni yaxshi ko‘ram
 - [Twitter](https://twitter.com/USERNAME)
 - [Instagram](https://instagram.com/Ibrohimov0521)
 - [GitHub](https://github.com/ibrohimov0521)
-
-> Ijtimoiy tarmoqlardagi "USERNAME"ni o‘zingizning haqiqiy profilingizga moslab almashtiring.
-
----
-
-⌨️ **Kod va loyihalarimni ko‘rib chiqing, fikr-mulohaza va takliflaringizni kutaman!**
